@@ -1,3 +1,4 @@
 morning=1.0.3
 start=1.0.3
 noon=1.0.0
+weather=1.0.0
